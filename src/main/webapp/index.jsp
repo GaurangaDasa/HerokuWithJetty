@@ -16,6 +16,6 @@
 		
 		<p>
 		Environment variable set in Codeship:-
-		 <%= System.getenv("envVariable")  %></p>
+		 <% java.lang.System.out.println( java.lang.System.getenv("envVariable") );  %></p>
     </body>
 </html>
