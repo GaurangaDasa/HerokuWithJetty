@@ -14,8 +14,9 @@
         <p><a href="getPersonData.jsp">Fill a Person form</a></p>
 		
 		
-		<p>
+<!--		 <p>
 		Environment variable set in Codeship:-
-		 <% java.lang.System.out.println( java.lang.System.getenv("envVariable") );  %></p>
+		 <% java.lang.System.out.println( java.lang.System.getenv("envVariable") );  %></p> 
+-->
     </body>
 </html>
